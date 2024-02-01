@@ -1,0 +1,5 @@
+# DATA EXPORT 
+sf data export tree --query dummy-data/prod-data-query.txt  --plan --prefix prod-data-export --output-dir dummy-data --target-org "cstoolkit"
+
+# DATA IMPORT
+sf data import tree --target-org "v21 2" --plan dummy-data/prod-data-export-Account-Contact-Task-plan.json

@@ -1,0 +1,1935 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef1"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-17",
+            "Priority": "Normal",
+            "Description": "Encountered three bugs in one week",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef2"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-26",
+            "Priority": "Normal",
+            "Description": "Company is doing better, may want to upgrade",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef3"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-26",
+            "Priority": "Normal",
+            "Description": "The reason is because we love the people at CS Toolkit",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef4"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-29",
+            "Priority": "Normal",
+            "Description": "Update the note xyz",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef5"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-02",
+            "Priority": "Normal",
+            "Description": "They like the product but are not satisfied with our response times.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef6"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-03",
+            "Priority": "Normal",
+            "Description": "Things are changing and we havee improved our relationship.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef7"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-06",
+            "Priority": "Normal",
+            "Description": "We've found a ES, that love us but primarily the support that they receive from the team",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef8"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-09",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef9"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-11",
+            "Priority": "Normal",
+            "Description": "They loved our new product release",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef10"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-11",
+            "Priority": "Normal",
+            "Description": "Test",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product;Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef11"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-11",
+            "Priority": "Normal",
+            "Description": "We resolved some of the bug and we have 2 left",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef12"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-12",
+            "Priority": "Normal",
+            "Description": "All bugs have been resolved",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef13"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-13",
+            "Priority": "Normal",
+            "Description": "They loved onboarding",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef14"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-16",
+            "Priority": "Normal",
+            "Description": "they are neautral based on zyx",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef15"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-18",
+            "Priority": "Normal",
+            "Description": "They had a great year with us and agreed to renew, they love the product",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef16"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-19",
+            "Priority": "Normal",
+            "Description": "Product bugs have been resolved",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef17"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-20",
+            "Priority": "Normal",
+            "Description": "Test Notes",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef18"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-20",
+            "Priority": "Normal",
+            "Description": "Test notes 2",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef19"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": "testtest",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef20"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef2",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef21"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef22"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef2",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-25",
+            "Priority": "Normal",
+            "Description": "They love the latest product releases!",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef23"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-25",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef24"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-26",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef25"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-26",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef26"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-26",
+            "Priority": "Normal",
+            "Description": "Loves the product",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef27"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef2",
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-26",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef28"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-01",
+            "Priority": "Normal",
+            "Description": "They were happy with the latest release.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product;Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef29"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-02",
+            "Priority": "Normal",
+            "Description": "They love the new feature.",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef30"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-03",
+            "Priority": "Normal",
+            "Description": "bugs resolved",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef31"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-06",
+            "Priority": "Normal",
+            "Description": "jfkjvhlibk",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef32"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-06",
+            "Priority": "Normal",
+            "Description": "They happy with the latest release.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Sales;Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef33"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-09",
+            "Priority": "Normal",
+            "Description": "They appreciate the attention",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef34"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef2",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-14",
+            "Priority": "Normal",
+            "Description": "We solved their issues really quickly.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef35"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-14",
+            "Priority": "Normal",
+            "Description": "sdfadsfas",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef36"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-16",
+            "Priority": "Normal",
+            "Description": "We solved all three bugs with the help of eng team",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef37"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef2",
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-17",
+            "Priority": "Normal",
+            "Description": "They love how responsive we are",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef38"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-21",
+            "Priority": "Normal",
+            "Description": "they love the product",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef39"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-07",
+            "Priority": "Normal",
+            "Description": "They are excited about the product but they still haven't implemented it yet.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef40"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-11",
+            "Priority": "Normal",
+            "Description": "They still havent implemented yet.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef41"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] follow up in 2 weeks",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-18",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef42"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Gauge] Follow up in 2 weeks to see if they have started implementation",
+            "Status": "Not Started",
+            "ActivityDate": "2023-12-20",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef43"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-02",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef44"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-08",
+            "Priority": "Normal",
+            "Description": "Not happy with response time",
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef45"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-26",
+            "Priority": "Normal",
+            "Description": "Not the happiest with our product right now but love the people",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef46"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-13",
+            "Priority": "Normal",
+            "Description": "we had call today, they are happy.",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef47"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-17",
+            "Priority": "Normal",
+            "Description": "they are neutral",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef48"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-19",
+            "Priority": "Normal",
+            "Description": "kjfhasdvbfkjhabsdjkf",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef49"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-20",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product;Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef50"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef51"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef52"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef53"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef54"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-13",
+            "Priority": "Normal",
+            "Description": "lksdjnflkdsjf",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef55"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-16",
+            "Priority": "Normal",
+            "Description": "They haven't implemented the product yet.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef56"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-04",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product;Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef57"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-04",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef58"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-05",
+            "Priority": "Normal",
+            "Description": "We emailed them on Friday, they were happy with the latest release.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef59"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-05",
+            "Priority": "Normal",
+            "Description": "Emailed Mary on December 1st to see if he had any issues upgrading the product. She responded the next day saying she had no issues upgrading at all.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef60"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-05",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef61"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-05",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef62"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-05",
+            "Priority": "Normal",
+            "Description": "Emailed Mary on December 1st to see if he had any issues upgrading the product. She responded the next day saying she had no issues upgrading at all.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef63"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-07",
+            "Priority": "Normal",
+            "Description": "We spoke with them on Monday December 4th. They love the product and they have fully implemented it.",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef64"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-07",
+            "Priority": "Normal",
+            "Description": "They haven't implemented one of the features yet.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef65"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Follw up in 2 weeks",
+            "Status": "Not Started",
+            "ActivityDate": "2023-12-21",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef66"
+            },
+            "WhatId": "@AccountRef2",
+            "WhoId": null,
+            "Subject": "[Gauge] Tell them about new features.",
+            "Status": "Not Started",
+            "ActivityDate": "2023-12-29",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef67"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-02",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef68"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-05",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef69"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-02",
+            "Priority": "Normal",
+            "Description": "they are now happy with us because we have been so responsive.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef70"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-13",
+            "Priority": "Normal",
+            "Description": "theyre mad now",
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef71"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-15",
+            "Priority": "Normal",
+            "Description": "dsfbdaskfasd",
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef72"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-30",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef73"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-05",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product;Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef74"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-07",
+            "Priority": "Normal",
+            "Description": "They are happy.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef75"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-07",
+            "Priority": "Normal",
+            "Description": "They told us they are going to churn.",
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef76"
+            },
+            "WhatId": "@AccountRef3",
+            "WhoId": null,
+            "Subject": "[Gauge] Follow proper steps to ensure they are churned in the system.",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-14",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef77"
+            },
+            "WhatId": "@AccountRef4",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-30",
+            "Priority": "Normal",
+            "Description": "Fred bought the product on call, and said he would introduce us to their CS Ops leader to see if he could get them to use it.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef78"
+            },
+            "WhatId": "@AccountRef4",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-03",
+            "Priority": "Normal",
+            "Description": "Fred reached out asking when we want to be introduced to CS lead, we responded and he hasn't gotten back to us.\n\nWill follow up this week.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef79"
+            },
+            "WhatId": "@AccountRef4",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-06",
+            "Priority": "Normal",
+            "Description": "Call with Fred & Susan. Susan seemed interested, but not able to implement at this moment - too many change to their CS team to implement anything.\n\nThey are not able to implement the product for at least 3 months after the Summit (not sure what she meant by that).",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef80"
+            },
+            "WhatId": "@AccountRef4",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-14",
+            "Priority": "Normal",
+            "Description": "We found out that Fred is leaving, high likelihood this will lead to a cancellation. Fred is the one who bought the product.",
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef81"
+            },
+            "WhatId": "@AccountRef4",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-07",
+            "Priority": "Normal",
+            "Description": "Spoke with them last week. John told me they were having some issues with adoption.",
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef82"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-07",
+            "Priority": "Normal",
+            "Description": "Sarah seemed pretty excited about the tool.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef83"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-23",
+            "Priority": "Normal",
+            "Description": "Free trial started August 20th, first payment occurred on August 31st. We are speaking to them in September and will get a better feeling for how they are using the tool.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef84"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-04",
+            "Priority": "Normal",
+            "Description": "We emailed Sarah to see if she could give us a good review on the AppExchange. She replied and gave us a stellar review.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef85"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-20",
+            "Priority": "Normal",
+            "Description": "Brendan emailed Sarah to give her the latest updates on CS Toolkit's latest release v0.7. She did not reply.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef86"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-02",
+            "Priority": "Normal",
+            "Description": "Note from Sarah:\nWe've been going through some changes and haven't formally tackled Account Health and Sentiment yet. Likely to embark on that project in the next 6 weeks.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef87"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-18",
+            "Priority": "Normal",
+            "Description": "Emailed Sarah on September 20th to see if she had any issues upgrading the product. He responded the next day saying he had no issues upgrading at all.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef88"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-12",
+            "Priority": "Normal",
+            "Description": "They haven't implemented the product",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Pre Implementation"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef89"
+            },
+            "WhatId": "@AccountRef5",
+            "WhoId": null,
+            "Subject": "[Gauge] Follow up in 2 weeks",
+            "Status": "Not Started",
+            "ActivityDate": "2023-12-26",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef90"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-08-28",
+            "Priority": "Normal",
+            "Description": "Free trial started August 28th, first payment occurred on September 4th. We are speaking to them in two weeks and will get a better feeling for how they are using the tool.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Sales"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef91"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef4",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-11",
+            "Priority": "Normal",
+            "Description": "Implementation went well. Brandan is happy with the tool and is planning to get the rest of his team to start using it.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef92"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef4",
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-19",
+            "Priority": "Normal",
+            "Description": "Brandan's team is struggling to adopt the tool. He complained about some bugs that we need to fix.",
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef93"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef4",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-09-25",
+            "Priority": "Normal",
+            "Description": "We fixed the bugs and Brandan is quite happy about it. His team has given positive feedback on the tool this week.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef94"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef4",
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-09",
+            "Priority": "Normal",
+            "Description": "Brandan and his team have been using the product. No current feedback.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef95"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef3",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-24",
+            "Priority": "Normal",
+            "Description": "Marco replied positively to the email about our new feature release. He is excited about the direction of the tool.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef96"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef4",
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-08",
+            "Priority": "Normal",
+            "Description": "Had a call with Brandan. All is going well. He is happy with the tool. His team has not had any recent issues.",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef97"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": "@ContactRef3",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-15",
+            "Priority": "Normal",
+            "Description": "Confirmed that they are going to renew. Marco expressed that he and the team are liking the product - especially the new features.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef98"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-30",
+            "Priority": "Normal",
+            "Description": "They are very happy with us.",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef99"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-01",
+            "Priority": "Normal",
+            "Description": "There was a bug...",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef100"
+            },
+            "WhatId": "@AccountRef6",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-01",
+            "Priority": "Normal",
+            "Description": "They were happy with the latest product release.",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Support;Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef101"
+            },
+            "WhatId": "@AccountRef7",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef102"
+            },
+            "WhatId": "@AccountRef8",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef103"
+            },
+            "WhatId": "@AccountRef9",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef104"
+            },
+            "WhatId": "@AccountRef10",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef105"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef106"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef107"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef108"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef109"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef110"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef111"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral 🟨",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": "They are not happy or angry",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef112"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef113"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-31",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef114"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-01",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef115"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-17",
+            "Priority": "Normal",
+            "Description": "3 bugs",
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef116"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Very Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-17",
+            "Priority": "Normal",
+            "Description": "Love the consistent support.",
+            "cstoolkit__Sentiment__c": "Very Satisfied",
+            "cstoolkit__Tags__c": "Support"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef117"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-23",
+            "Priority": "Normal",
+            "Description": "3 bugs",
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef118"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Host QBR",
+            "Status": "Not Started",
+            "ActivityDate": "2023-11-24",
+            "Priority": "Normal",
+            "Description": "Highlight major wins",
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef119"
+            },
+            "WhatId": "@AccountRef11",
+            "WhoId": null,
+            "Subject": "[Gauge] Meet with PM",
+            "Status": "Not Started",
+            "ActivityDate": "2023-11-24",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": null,
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef120"
+            },
+            "WhatId": "@AccountRef12",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef121"
+            },
+            "WhatId": "@AccountRef13",
+            "WhoId": "@ContactRef5",
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-24",
+            "Priority": "Normal",
+            "Description": "example of notes",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef122"
+            },
+            "WhatId": "@AccountRef13",
+            "WhoId": "@ContactRef6",
+            "Subject": "[Gauge] Some Risk 🟧",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-24",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Some Risk",
+            "cstoolkit__Tags__c": "Product"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef123"
+            },
+            "WhatId": "@AccountRef14",
+            "WhoId": null,
+            "Subject": "[Gauge] High Risk 🟥",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "High Risk",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef124"
+            },
+            "WhatId": "@AccountRef14",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral :large_yellow_square:",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-13",
+            "Priority": "Normal",
+            "Description": "Bulk Updated",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef125"
+            },
+            "WhatId": "@AccountRef15",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": null,
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef126"
+            },
+            "WhatId": "@AccountRef15",
+            "WhoId": null,
+            "Subject": "[Gauge] Satisfied 🟩",
+            "Status": "Completed",
+            "ActivityDate": "2023-10-23",
+            "Priority": "Normal",
+            "Description": "test",
+            "cstoolkit__Sentiment__c": "Satisfied",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef127"
+            },
+            "WhatId": "@AccountRef15",
+            "WhoId": null,
+            "Subject": "[Gauge] Neutral :large_yellow_square:",
+            "Status": "Completed",
+            "ActivityDate": "2023-11-13",
+            "Priority": "Normal",
+            "Description": "Bulk Updated",
+            "cstoolkit__Sentiment__c": "Neutral",
+            "cstoolkit__Tags__c": null
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef128"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Email] Gauge v1.5",
+            "Description":"Hey Matt, I'm really mad about the latest release breaking everything. Please fix. Thanks",
+            "Status": "Completed",
+            "ActivityDate": "2023-12-20",
+            "Priority": "Normal"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "TaskRef129"
+            },
+            "WhatId": "@AccountRef1",
+            "WhoId": "@ContactRef1",
+            "Subject": "[Email] Gauge v2.1",
+            "Status": "Completed",
+            "ActivityDate": "2024-01-23",
+            "Priority": "Normal",
+            "Description":"WE STILL HAVEN'T IMPLEMENTED THE PRODUCT YET. WHERE THE HELL IS ONBOARDING."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+SELECT
+  Id, 
+  Name,
+  Type,
+  (SELECT Id, FirstName, LastName, AccountId FROM Contacts),
+  (SELECT Id, WhatId, WhoId, Subject, Status, ActivityDate, Priority, Description, cstoolkit__Sentiment__c, cstoolkit__Tags__c FROM Tasks)
+FROM Account
+WHERE Status__c = 'Dummy Data'

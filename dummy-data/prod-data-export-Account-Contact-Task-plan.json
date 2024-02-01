@@ -1,0 +1,26 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "prod-data-export-Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "prod-data-export-Contacts.json"
+        ]
+    },
+    {
+        "sobject": "Task",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "prod-data-export-Tasks.json"
+        ]
+    }
+]
