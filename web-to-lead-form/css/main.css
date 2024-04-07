@@ -1,0 +1,32 @@
+.schedule-form-input {
+  background-color: #f9f9f9;
+  height: 48px;
+  padding: 0 20px; /* optional - add padding if you want the text to be indented */
+  border-radius: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  border: 1px solid #000;
+}
+
+.purple-button {
+  display: flex;
+  padding: 8px 70px;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #000;
+  background: #5e5aff;
+  color: #fff;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  box-shadow: 2px 2px 0px #000000;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.purple-button:hover {
+  box-shadow: 4px 4px 0px #000000;
+}

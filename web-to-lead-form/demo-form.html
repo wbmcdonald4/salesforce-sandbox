@@ -1,0 +1,87 @@
+<form
+  id="yourForm"
+  class="d-flex flex-column gap-3 my-3"
+  action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D8Y000001ZZ4f"
+  method="POST"
+>
+  <input
+    type="hidden"
+    name="captcha_settings"
+    value='{"keyname":"cstoolkitv2","fallback":"true","orgId":"00D8Y000001ZZ4f","ts":""}'
+  />
+  <input type="hidden" name="oid" value="00D8Y000001ZZ4f" />
+
+  <!-- PRODUCTION -->
+  <input type="hidden" name="retURL" value="http://cstoolkit.app/thank-you" />
+
+  <!-- DEVELOPMENT -->
+  <!-- <input type=hidden name="retURL" value="http://127.0.0.1:8000/thank-you"> -->
+
+  <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+  <!--  these lines if you wish to test in debug mode.                          -->
+  <!-- <input type="hidden" name="debug" value=1>                              -->
+  <!-- <input type="hidden" name="debugEmail" value="sample@email.come">   -->
+
+  <div class="form-title-text">
+    Please fill out this form to schedule a call
+  </div>
+  <input type="hidden" id="lead_source" name="lead_source" value="Website" />
+
+  <input
+    class="form-control schedule-form-input"
+    id="first_name"
+    required
+    placeholder="First name"
+    maxlength="40"
+    name="first_name"
+    size="20"
+    type="text"
+  />
+  <input
+    class="form-control schedule-form-input"
+    id="last_name"
+    required
+    placeholder="Last name"
+    maxlength="80"
+    name="last_name"
+    size="20"
+    type="text"
+  />
+  <input
+    class="form-control schedule-form-input"
+    id="email"
+    required
+    placeholder="Business Email"
+    maxlength="80"
+    name="email"
+    size="20"
+    type="text"
+  />
+  <div id="emailError" style="color: red; display: none">
+    Please use a business email address.
+  </div>
+  <input
+    class="form-control schedule-form-input"
+    id="company"
+    required
+    placeholder="Company"
+    maxlength="40"
+    name="company"
+    size="20"
+    type="text"
+  />
+
+  <div id="captchaMessage" style="color: red; display: none">
+    reCAPTCHA is required. Please verify you are not a robot.
+  </div>
+  <div
+    class="g-recaptcha"
+    data-sitekey="6LdwC3opAAAAAFHF7Lgwbq8BYS0Wxe2oGytRDfsg"
+    data-callback="verifyCaptcha"
+  ></div>
+  <button type="submit" class="purple-button w-100" id="submitBtn">
+    Submit
+  </button>
+</form>
+
+<script src="{{ url_for('static', filename='js/demoFormValidation.js') }}"></script>
